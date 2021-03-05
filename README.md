@@ -12,3 +12,6 @@
 - [ ] Document & research ocean plastic pollution 
 - [ ] Hardware for live demonstration 
 - [ ] Test image classifier on camera 
+
+# CubeSat CAD 
+Stores STL files of cubesat enclosure 🛰
